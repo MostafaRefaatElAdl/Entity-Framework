@@ -58,11 +58,11 @@ D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\wareho
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\warehouse manager.exe
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\warehouse manager.pdb
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\ar-EG\warehouse manager.resources.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\en-GB\warehouse manager.resources.dll
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.dll
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.dll
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.xml
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.xml
-D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.AssemblyReference.cache
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.SuggestedBindingRedirects.cache
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrder.AddEditExchangeOrder.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrdersList.resources
@@ -96,6 +96,7 @@ D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\wareho
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Home.ar-EG.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.AddEditPaymentOrder.ar-EG.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.en-GB.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Person.ar-EG.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PersonList.ar-EG.resources
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ReportsList.ar-EG.resources
@@ -107,6 +108,8 @@ D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\wareho
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.GenerateResource.cache
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CoreCompileInputs.cache
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\ar-EG\warehouse manager.resources.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\en-GB\warehouse manager.resources.dll
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CopyComplete
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.exe
 D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.pdb
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.AssemblyReference.cache

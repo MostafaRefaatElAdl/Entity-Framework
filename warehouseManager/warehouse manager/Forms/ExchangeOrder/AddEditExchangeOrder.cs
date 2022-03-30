@@ -13,8 +13,6 @@ namespace warehouse_manager.Forms.ExchangeOrder
 {
     public partial class AddEditExchangeOrder : Form
     {
-        // TODO: Add validation code before save
-        // TODO: implement order Update
 
         private readonly Model _model;
 

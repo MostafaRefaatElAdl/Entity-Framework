@@ -13,53 +13,7 @@ namespace warehouse_manager
     {
         public Home()
         {
-            //Thread.CurrentThread.CurrentUICulture = new CultureInfo(Program.InputLanguage);
             InitializeComponent();
-
-                //btnChangeLanguage.Text = Program.InputLanguage == "en-US" ? "عربى" : "English";
-                //this.RightToLeft = Program.InputLanguage == "en-US" ? RightToLeft.No : RightToLeft.Yes;
-                //this.RightToLeftLayout = Program.InputLanguage == "ar-EG";
-        }
-
-        //private void btnChangeLanguage_Click(object sender, EventArgs e)
-        //{
-        //    Program.InputLanguage = Program.InputLanguage == "en-US" ? "ar-EG" : "en-US";
-        //    Thread.CurrentThread.CurrentUICulture = new CultureInfo(Program.InputLanguage);
-        //    this.Controls.Clear();
-        //    InitializeComponent();
-        //    this.RightToLeft = Program.InputLanguage == "en-US" ? RightToLeft.No : RightToLeft.Yes;
-        //    this.RightToLeftLayout = Program.InputLanguage == "ar-EG";
-        //    btnChangeLanguage.Text = Program.InputLanguage == "en-US" ? "عربى" : "English";
-        //}
-
-        private void tsbViewWarehouses_Click(object sender, EventArgs e)
-        {
-            var form = new Warehouses();
-            form.Show();
-        }
-
-        private void tsbViewProducts_Click(object sender, EventArgs e)
-        {
-            var form = new Products();
-            form.Show();
-        }
-
-        private void tsbViewUnits_Click(object sender, EventArgs e)
-        {
-            var form = new Units();
-            form.Show();
-        }
-
-        private void tsbViewProviders_Click(object sender, EventArgs e)
-        {
-            var form = new PersonList(PersonType.Provider);
-            form.Show();
-        }
-
-        private void tsbViewCustomers_Click(object sender, EventArgs e)
-        {
-            var form = new PersonList(PersonType.Customer);
-            form.Show();
         }
 
         private void btnSupplyingOrders_Click(object sender, EventArgs e)

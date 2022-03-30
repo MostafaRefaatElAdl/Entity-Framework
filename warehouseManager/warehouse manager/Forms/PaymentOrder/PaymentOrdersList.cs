@@ -14,7 +14,6 @@ namespace warehouse_manager.Forms.PaymentOrder
 {
     public partial class PaymentOrdersList : Form
     {
-        // TODO: implement order Delete
         private readonly Model _model;
 
         public PaymentOrdersList()

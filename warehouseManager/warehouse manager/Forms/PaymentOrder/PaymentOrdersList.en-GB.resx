@@ -119,7 +119,7 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnShow.Location" type="System.Drawing.Point, System.Drawing">
-    <value>218, 411</value>
+    <value>192, 411</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnShow.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
@@ -129,7 +129,7 @@
     <value>98, 28</value>
   </data>
   <data name="btnAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>452, 411</value>
+    <value>444, 411</value>
   </data>
   <data name="btnAdd.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -157,7 +157,7 @@
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>317, 20</value>
+    <value>316, 20</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>96, 13</value>

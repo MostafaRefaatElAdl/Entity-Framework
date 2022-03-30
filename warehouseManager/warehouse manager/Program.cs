@@ -16,8 +16,6 @@ namespace warehouse_manager
         [STAThread]
         static void Main()
         {
-            //InputLanguage = "en-US";
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Home());

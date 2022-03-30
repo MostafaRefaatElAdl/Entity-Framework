@@ -14,7 +14,7 @@ namespace warehouse_manager.Forms
 {
     public partial class ExchangeOrdersList : Form
     {
-        // TODO: implement order Delete
+
         private readonly Model _model;
 
         public ExchangeOrdersList()

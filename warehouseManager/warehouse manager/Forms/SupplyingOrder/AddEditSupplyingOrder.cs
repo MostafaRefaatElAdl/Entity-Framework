@@ -14,9 +14,6 @@ namespace warehouse_manager.Forms
 {
     public partial class AddEditSupplyingOrder : Form
     {
-        // TODO: Add validation code before save
-        // TODO: implement order Update
-
         private readonly Model _model;
 
         private DateTimePicker _dtp;
