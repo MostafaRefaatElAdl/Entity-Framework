@@ -18,4 +18,4 @@
 
 ### ERD
 
-![EntityDesignerDiagram](./EntityDesignerDiagram.png)
+![EntityDesignerDiagram]
