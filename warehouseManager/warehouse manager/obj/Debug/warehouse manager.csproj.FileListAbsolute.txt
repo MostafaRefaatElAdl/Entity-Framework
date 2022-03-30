@@ -1,0 +1,112 @@
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\warehouse manager.exe.config
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\warehouse manager.exe
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\warehouse manager.pdb
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\ar-EG\warehouse manager.resources.dll
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\EntityFramework.dll
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\EntityFramework.xml
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.AssemblyReference.cache
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.SuggestedBindingRedirects.cache
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrder.AddEditExchangeOrder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrdersList.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.AddEditPaymentOrder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ItemsExpirationReport.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ReportsList.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.AddEditSupplyingOrder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Home.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Person.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PersonList.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Products.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.SupplyingOrdersList.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Units.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Warehouses.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.warehouse.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.product.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.unit.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.customer.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.provider.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.supplyingOrder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.item.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.paymentOrder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.invoiceItem.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addunittoitem.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addwarehousetopaymentorder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addexchangeorder.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Properties.Resources.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrder.AddEditExchangeOrder.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrdersList.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Home.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.AddEditPaymentOrder.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Person.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PersonList.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ReportsList.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.AddEditSupplyingOrder.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.SupplyingOrdersList.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Products.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Units.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Warehouses.ar-EG.resources
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.GenerateResource.cache
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CoreCompileInputs.cache
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\ar-EG\warehouse manager.resources.dll
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CopyComplete
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.exe
+D:\LABS\22- EF\END-Project\warehouseManager\warehouse manager\obj\Debug\warehouse manager.pdb
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\warehouse manager.exe.config
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\warehouse manager.exe
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\warehouse manager.pdb
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\ar-EG\warehouse manager.resources.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.xml
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.AssemblyReference.cache
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrder.AddEditExchangeOrder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrdersList.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.AddEditPaymentOrder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ItemsExpirationReport.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ReportsList.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.AddEditSupplyingOrder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Home.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Person.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PersonList.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Products.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.SupplyingOrdersList.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Units.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Warehouses.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.warehouse.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.product.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.unit.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.customer.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.provider.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.supplyingOrder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.item.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.paymentOrder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.invoiceItem.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addunittoitem.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addwarehousetopaymentorder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Migrations.addexchangeorder.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Properties.Resources.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrder.AddEditExchangeOrder.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.ExchangeOrdersList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Home.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.AddEditPaymentOrder.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PaymentOrder.PaymentOrdersList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Person.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.PersonList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Reports.ReportsList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.AddEditSupplyingOrder.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.SupplyingOrdersList.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Products.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Units.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse_manager.Forms.Warehouses.ar-EG.resources
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.GenerateResource.cache
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CoreCompileInputs.cache
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\ar-EG\warehouse manager.resources.dll
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.csproj.CopyComplete
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.exe
+D:\Projects\Entity Framework\warehouseManager\warehouse manager\obj\Debug\warehouse manager.pdb

@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnSupplyingOrders.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnSupplyingOrders.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 33</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnSupplyingOrders.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnSupplyingOrders.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 32</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnSupplyingOrders.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnSupplyingOrders.Text" xml:space="preserve">
+    <value>Supplying Orders</value>
+  </data>
+  <data name="&gt;&gt;btnSupplyingOrders.Name" xml:space="preserve">
+    <value>btnSupplyingOrders</value>
+  </data>
+  <data name="&gt;&gt;btnSupplyingOrders.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSupplyingOrders.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnSupplyingOrders.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnPaymentOrders.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnPaymentOrders.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 82</value>
+  </data>
+  <data name="btnPaymentOrders.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnPaymentOrders.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 32</value>
+  </data>
+  <data name="btnPaymentOrders.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnPaymentOrders.Text" xml:space="preserve">
+    <value>Payment Orders</value>
+  </data>
+  <data name="&gt;&gt;btnPaymentOrders.Name" xml:space="preserve">
+    <value>btnPaymentOrders</value>
+  </data>
+  <data name="&gt;&gt;btnPaymentOrders.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPaymentOrders.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnPaymentOrders.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnNewPaymentOrder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnNewPaymentOrder.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNewPaymentOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 305</value>
+  </data>
+  <data name="btnNewPaymentOrder.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnNewPaymentOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 32</value>
+  </data>
+  <data name="btnNewPaymentOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnNewPaymentOrder.Text" xml:space="preserve">
+    <value>New Payment Order</value>
+  </data>
+  <data name="&gt;&gt;btnNewPaymentOrder.Name" xml:space="preserve">
+    <value>btnNewPaymentOrder</value>
+  </data>
+  <data name="&gt;&gt;btnNewPaymentOrder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNewPaymentOrder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnNewPaymentOrder.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnNewSupplyingOrder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnNewSupplyingOrder.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNewSupplyingOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 256</value>
+  </data>
+  <data name="btnNewSupplyingOrder.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnNewSupplyingOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 32</value>
+  </data>
+  <data name="btnNewSupplyingOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnNewSupplyingOrder.Text" xml:space="preserve">
+    <value>New Supplying Order</value>
+  </data>
+  <data name="&gt;&gt;btnNewSupplyingOrder.Name" xml:space="preserve">
+    <value>btnNewSupplyingOrder</value>
+  </data>
+  <data name="&gt;&gt;btnNewSupplyingOrder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNewSupplyingOrder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnNewSupplyingOrder.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnExchangeOrders.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnExchangeOrders.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnExchangeOrders.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 133</value>
+  </data>
+  <data name="btnExchangeOrders.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnExchangeOrders.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 32</value>
+  </data>
+  <data name="btnExchangeOrders.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnExchangeOrders.Text" xml:space="preserve">
+    <value>Exchange Orders</value>
+  </data>
+  <data name="&gt;&gt;btnExchangeOrders.Name" xml:space="preserve">
+    <value>btnExchangeOrders</value>
+  </data>
+  <data name="&gt;&gt;btnExchangeOrders.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnExchangeOrders.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnExchangeOrders.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnNewExchangeOrder.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnNewExchangeOrder.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNewExchangeOrder.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 356</value>
+  </data>
+  <data name="btnNewExchangeOrder.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnNewExchangeOrder.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 32</value>
+  </data>
+  <data name="btnNewExchangeOrder.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnNewExchangeOrder.Text" xml:space="preserve">
+    <value>New Exchange Order</value>
+  </data>
+  <data name="&gt;&gt;btnNewExchangeOrder.Name" xml:space="preserve">
+    <value>btnNewExchangeOrder</value>
+  </data>
+  <data name="&gt;&gt;btnNewExchangeOrder.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNewExchangeOrder.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnNewExchangeOrder.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnReports.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnReports.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnReports.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 274</value>
+  </data>
+  <data name="btnReports.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="btnReports.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 95</value>
+  </data>
+  <data name="btnReports.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnReports.Text" xml:space="preserve">
+    <value>Reports</value>
+  </data>
+  <data name="&gt;&gt;btnReports.Name" xml:space="preserve">
+    <value>btnReports</value>
+  </data>
+  <data name="&gt;&gt;btnReports.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReports.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnReports.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>52, 223</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 188</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>New Order</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 223</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 188</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>View Orders</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnViewWarehouses.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Rounded MT Bold, 14.25pt</value>
+  </data>
+  <data name="btnViewWarehouses.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnViewWarehouses.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 56</value>
+  </data>
+  <data name="btnViewWarehouses.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 49</value>
+  </data>
+  <data name="btnViewWarehouses.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnViewWarehouses.Text" xml:space="preserve">
+    <value>Warehouses</value>
+  </data>
+  <data name="&gt;&gt;btnViewWarehouses.Name" xml:space="preserve">
+    <value>btnViewWarehouses</value>
+  </data>
+  <data name="&gt;&gt;btnViewWarehouses.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnViewWarehouses.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnViewWarehouses.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnViewProducts.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Rounded MT Bold, 14.25pt</value>
+  </data>
+  <data name="btnViewProducts.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnViewProducts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>304, 37</value>
+  </data>
+  <data name="btnViewProducts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 49</value>
+  </data>
+  <data name="btnViewProducts.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnViewProducts.Text" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="&gt;&gt;btnViewProducts.Name" xml:space="preserve">
+    <value>btnViewProducts</value>
+  </data>
+  <data name="&gt;&gt;btnViewProducts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnViewProducts.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnViewProducts.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnViewUnits.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Rounded MT Bold, 14.25pt</value>
+  </data>
+  <data name="btnViewUnits.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnViewUnits.Location" type="System.Drawing.Point, System.Drawing">
+    <value>515, 37</value>
+  </data>
+  <data name="btnViewUnits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 49</value>
+  </data>
+  <data name="btnViewUnits.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btnViewUnits.Text" xml:space="preserve">
+    <value>Units</value>
+  </data>
+  <data name="&gt;&gt;btnViewUnits.Name" xml:space="preserve">
+    <value>btnViewUnits</value>
+  </data>
+  <data name="&gt;&gt;btnViewUnits.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnViewUnits.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnViewUnits.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnViewProviders.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Rounded MT Bold, 14.25pt</value>
+  </data>
+  <data name="btnViewProviders.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnViewProviders.Location" type="System.Drawing.Point, System.Drawing">
+    <value>202, 111</value>
+  </data>
+  <data name="btnViewProviders.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 49</value>
+  </data>
+  <data name="btnViewProviders.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btnViewProviders.Text" xml:space="preserve">
+    <value>Providers</value>
+  </data>
+  <data name="&gt;&gt;btnViewProviders.Name" xml:space="preserve">
+    <value>btnViewProviders</value>
+  </data>
+  <data name="&gt;&gt;btnViewProviders.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnViewProviders.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnViewProviders.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnViewCustomers.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Rounded MT Bold, 14.25pt</value>
+  </data>
+  <data name="btnViewCustomers.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnViewCustomers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 111</value>
+  </data>
+  <data name="btnViewCustomers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 49</value>
+  </data>
+  <data name="btnViewCustomers.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btnViewCustomers.Text" xml:space="preserve">
+    <value>Customers</value>
+  </data>
+  <data name="&gt;&gt;btnViewCustomers.Name" xml:space="preserve">
+    <value>btnViewCustomers</value>
+  </data>
+  <data name="&gt;&gt;btnViewCustomers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnViewCustomers.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnViewCustomers.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 19</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>765, 187</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Explore Warehouses</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>810, 449</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
