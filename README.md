@@ -10,7 +10,7 @@
 - manage Supplying Orders
 - manage payment Orders
 - keep tracking of Products movement between Warehouses
-- Reports
+- Expiration Report
 
 ### Installation tools
 - SQL Server 2021
