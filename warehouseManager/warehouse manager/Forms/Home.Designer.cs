@@ -45,8 +45,20 @@ namespace warehouse_manager
             this.btnViewProviders = new System.Windows.Forms.Button();
             this.btnViewCustomers = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSupplyingOrders
@@ -93,19 +105,22 @@ namespace warehouse_manager
             // 
             // btnReports
             // 
+            this.btnReports.BackColor = System.Drawing.SystemColors.Control;
             resources.ApplyResources(this.btnReports, "btnReports");
             this.btnReports.Name = "btnReports";
-            this.btnReports.UseVisualStyleBackColor = true;
+            this.btnReports.UseVisualStyleBackColor = false;
             this.btnReports.Click += new System.EventHandler(this.btnReports_Click);
             // 
             // groupBox1
             // 
+            this.groupBox1.BackgroundImage = global::warehouse_manager.Properties.Resources.bkImage;
             resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
             // groupBox2
             // 
+            this.groupBox2.BackgroundImage = global::warehouse_manager.Properties.Resources.bkImage___Copy___Copy1;
             this.groupBox2.Controls.Add(this.btnSupplyingOrders);
             this.groupBox2.Controls.Add(this.btnPaymentOrders);
             this.groupBox2.Controls.Add(this.btnExchangeOrders);
@@ -115,69 +130,132 @@ namespace warehouse_manager
             // 
             // btnViewWarehouses
             // 
+            this.btnViewWarehouses.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.btnViewWarehouses, "btnViewWarehouses");
             this.btnViewWarehouses.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnViewWarehouses.Name = "btnViewWarehouses";
-            this.btnViewWarehouses.UseVisualStyleBackColor = true;
+            this.btnViewWarehouses.UseVisualStyleBackColor = false;
             this.btnViewWarehouses.Click += new System.EventHandler(this.btnViewWarehouses_Click);
             // 
             // btnViewProducts
             // 
+            this.btnViewProducts.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.btnViewProducts, "btnViewProducts");
             this.btnViewProducts.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnViewProducts.Name = "btnViewProducts";
-            this.btnViewProducts.UseVisualStyleBackColor = true;
+            this.btnViewProducts.UseVisualStyleBackColor = false;
             this.btnViewProducts.Click += new System.EventHandler(this.btnViewProducts_Click);
             // 
             // btnViewUnits
             // 
+            this.btnViewUnits.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.btnViewUnits, "btnViewUnits");
             this.btnViewUnits.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnViewUnits.Name = "btnViewUnits";
-            this.btnViewUnits.UseVisualStyleBackColor = true;
+            this.btnViewUnits.UseVisualStyleBackColor = false;
             this.btnViewUnits.Click += new System.EventHandler(this.btnViewUnits_Click);
             // 
             // btnViewProviders
             // 
+            this.btnViewProviders.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.btnViewProviders, "btnViewProviders");
             this.btnViewProviders.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnViewProviders.Name = "btnViewProviders";
-            this.btnViewProviders.UseVisualStyleBackColor = true;
+            this.btnViewProviders.UseVisualStyleBackColor = false;
             this.btnViewProviders.Click += new System.EventHandler(this.btnViewProviders_Click);
             // 
             // btnViewCustomers
             // 
+            this.btnViewCustomers.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.btnViewCustomers, "btnViewCustomers");
             this.btnViewCustomers.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnViewCustomers.Name = "btnViewCustomers";
-            this.btnViewCustomers.UseVisualStyleBackColor = true;
+            this.btnViewCustomers.UseVisualStyleBackColor = false;
             this.btnViewCustomers.Click += new System.EventHandler(this.btnViewCustomers_Click);
             // 
             // groupBox3
             // 
+            this.groupBox3.BackColor = System.Drawing.Color.White;
+            this.groupBox3.BackgroundImage = global::warehouse_manager.Properties.Resources.bkImage;
+            this.groupBox3.Controls.Add(this.pictureBox5);
+            this.groupBox3.Controls.Add(this.pictureBox4);
+            this.groupBox3.Controls.Add(this.pictureBox3);
+            this.groupBox3.Controls.Add(this.pictureBox2);
+            this.groupBox3.Controls.Add(this.pictureBox1);
             this.groupBox3.Controls.Add(this.btnViewCustomers);
             this.groupBox3.Controls.Add(this.btnViewUnits);
             this.groupBox3.Controls.Add(this.btnViewProviders);
+            this.groupBox3.Controls.Add(this.btnViewWarehouses);
             this.groupBox3.Controls.Add(this.btnViewProducts);
             resources.ApplyResources(this.groupBox3, "groupBox3");
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.TabStop = false;
             // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::warehouse_manager.Properties.Resources.icons8_used_product_512px;
+            resources.ApplyResources(this.pictureBox5, "pictureBox5");
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::warehouse_manager.Properties.Resources.icons8_supplier_512px;
+            resources.ApplyResources(this.pictureBox4, "pictureBox4");
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::warehouse_manager.Properties.Resources.icons8_used_product_512px;
+            resources.ApplyResources(this.pictureBox3, "pictureBox3");
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::warehouse_manager.Properties.Resources.icons8_customer_512px;
+            resources.ApplyResources(this.pictureBox2, "pictureBox2");
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::warehouse_manager.Properties.Resources.icons8_active_directory_512px;
+            resources.ApplyResources(this.pictureBox1, "pictureBox1");
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BackColor = System.Drawing.SystemColors.Control;
+            this.pictureBox6.Image = global::warehouse_manager.Properties.Resources.icons8_medical_history_512px;
+            resources.ApplyResources(this.pictureBox6, "pictureBox6");
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.TabStop = false;
+            // 
             // Home
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::warehouse_manager.Properties.Resources.bkImage;
+            this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.btnReports);
             this.Controls.Add(this.btnNewExchangeOrder);
             this.Controls.Add(this.btnNewPaymentOrder);
-            this.Controls.Add(this.btnViewWarehouses);
             this.Controls.Add(this.btnNewSupplyingOrder);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupBox3);
             this.Name = "Home";
             this.groupBox2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -198,6 +276,12 @@ namespace warehouse_manager
         private System.Windows.Forms.Button btnViewProviders;
         private System.Windows.Forms.Button btnViewCustomers;
         private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.PictureBox pictureBox6;
     }
 }
 

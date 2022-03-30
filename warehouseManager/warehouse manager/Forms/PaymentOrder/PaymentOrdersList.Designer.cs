@@ -30,19 +30,12 @@ namespace warehouse_manager.Forms.PaymentOrder
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PaymentOrdersList));
-            this.btnDelete = new System.Windows.Forms.Button();
             this.btnShow = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvOrders = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrders)).BeginInit();
             this.SuspendLayout();
-            // 
-            // btnDelete
-            // 
-            resources.ApplyResources(this.btnDelete, "btnDelete");
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.UseVisualStyleBackColor = true;
             // 
             // btnShow
             // 
@@ -83,7 +76,6 @@ namespace warehouse_manager.Forms.PaymentOrder
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.dgvOrders);
@@ -95,8 +87,6 @@ namespace warehouse_manager.Forms.PaymentOrder
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnShow;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.DataGridView dgvOrders;

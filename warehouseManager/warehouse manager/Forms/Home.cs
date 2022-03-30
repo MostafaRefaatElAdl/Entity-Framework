@@ -100,7 +100,7 @@ namespace warehouse_manager
 
         private void btnReports_Click(object sender, EventArgs e)
         {
-            var form = new ReportsList();
+            var form = new ItemsExpirationReport();
             form.Show();
         }
 

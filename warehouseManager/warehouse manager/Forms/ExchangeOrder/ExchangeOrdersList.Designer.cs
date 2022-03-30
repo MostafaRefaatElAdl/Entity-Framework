@@ -34,6 +34,7 @@ namespace warehouse_manager.Forms
             this.btnShow = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvOrders = new System.Windows.Forms.DataGridView();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrders)).BeginInit();
             this.SuspendLayout();
             // 
@@ -59,9 +60,9 @@ namespace warehouse_manager.Forms
             // 
             // dgvOrders
             // 
-            resources.ApplyResources(this.dgvOrders, "dgvOrders");
             this.dgvOrders.AllowUserToAddRows = false;
             this.dgvOrders.AllowUserToDeleteRows = false;
+            resources.ApplyResources(this.dgvOrders, "dgvOrders");
             this.dgvOrders.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvOrders.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvOrders.MultiSelect = false;
@@ -72,10 +73,16 @@ namespace warehouse_manager.Forms
             this.dgvOrders.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvOrders.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvOrders_CellDoubleClick);
             // 
+            // label1
+            // 
+            resources.ApplyResources(this.label1, "label1");
+            this.label1.Name = "label1";
+            // 
             // ExchangeOrdersList
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.btnAdd);
@@ -83,6 +90,7 @@ namespace warehouse_manager.Forms
             this.Name = "ExchangeOrdersList";
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrders)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -92,5 +100,6 @@ namespace warehouse_manager.Forms
         private System.Windows.Forms.Button btnShow;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.DataGridView dgvOrders;
+        private System.Windows.Forms.Label label1;
     }
 }

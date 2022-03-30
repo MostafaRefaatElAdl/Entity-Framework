@@ -33,7 +33,6 @@ namespace warehouse_manager.Forms
             this.dgvOrders = new System.Windows.Forms.DataGridView();
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnShow = new System.Windows.Forms.Button();
-            this.btnDelete = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrders)).BeginInit();
             this.SuspendLayout();
@@ -67,12 +66,6 @@ namespace warehouse_manager.Forms
             this.btnShow.UseVisualStyleBackColor = true;
             this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
             // 
-            // btnDelete
-            // 
-            resources.ApplyResources(this.btnDelete, "btnDelete");
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.UseVisualStyleBackColor = true;
-            // 
             // label1
             // 
             resources.ApplyResources(this.label1, "label1");
@@ -83,7 +76,6 @@ namespace warehouse_manager.Forms
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.dgvOrders);
@@ -99,7 +91,6 @@ namespace warehouse_manager.Forms
         private System.Windows.Forms.DataGridView dgvOrders;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnShow;
-        private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Label label1;
     }
 }
